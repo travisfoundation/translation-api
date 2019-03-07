@@ -10,7 +10,7 @@ module.exports.routes = function( server ) {
 
 	server.post( {
 		path: '/ping'
-	}, function() {
+	}, function(req, res, next) {
 		res.send( req.params );
 		return next();
 	} );
