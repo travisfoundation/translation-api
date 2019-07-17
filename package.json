@@ -11,7 +11,7 @@
     "restify-cors-middleware": "^1.1.1",
     "restify-errors": "^6.1.1",
     "restify-jwt-community": "^1.0.9",
-    "sequelize": "^4.42.1",
+    "sequelize": "^5.3.0",
     "sqlite3": "^4.0.6",
     "uuid": "^3.3.2"
   },
